@@ -33,13 +33,14 @@ ___
 * [AJAX](https://api.jquery.com/category/ajax/)
 * [Firebase](https://firebase.google.com/docs)
 
-![Graph](graph.png)
+![Commits](/assets/Images/screenshots/commit-graph.png)
+![Graph](/assets/Images/screenshots/graph-percentage.png)
 ___
 
-![Drink Selection Page](screenshot.png)
-![Priority Selection Page](screenshot.png)
-![Results Page](screenshot.png)
-![Google Maps Page](screenshot.png)
+![Drink Selection Page](/assets/Images/screenshots/index-page-screenshot.png)
+![Priority Selection Page](/assets/Images/screenshots/priority-selection-screenshot.png)
+![Results Page](/assets/Images/screenshots/results-screenshot.png)
+![Google Maps Page](/assets/Images/screenshots/results-screenshot.png)
 
 [Sip First deployed page](https://djgoldstone.github.io/Sip/)
 
